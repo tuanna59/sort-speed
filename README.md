@@ -9,3 +9,44 @@
 1.	Explore the implementation of sorting algorithms.
 2.	Experiment with sorting performance by finding a sort algorithm that out-performs, if possible, your merge sort implementation.
 3.	Further develop skills producing Java applications.
+
+## Examples:
+### Input File:
+```
+smi2;'as4dls[please6gs;'"[\dgl']ds'ds]a5fl7wwpflow3ef]7sleep[lfsd5?6pl.fs;a]ds3p7bsd;';',v9d;.hello.,][d;g[];hd';b2f'best.f1'b.1fb1f[]b;fd[?]bfd'b;.fdb.f[da;b[sdf;bd';drive;ds[;3v[g;4[t;53y';6u.p5i7;4k;peble5y,lp[u enjoy34:<>eplyn7wn.;p9on75o75wp7.]l].p5m8lw8lw]mp5lu.n5o,7{nice<pw7lnw,b[.oyws[pbe/o,/ueob/easy||y/imwv[mi[ubi,fly"b4[you{}[]as52j8\never+-kw/"find=_\gs4\h47nwn;35;bsgg;5me{]1o;g[8f.8>4vs'>because833_[a>.va<"s3sS2:?im34vz5{.`v~}not92c3t;/43.df57here;['muhaha]]+hi:l[st4call.,?is><sa.dw'{:'fe/god]\\__+44:su.;'p342ok.
+```
+### Output File:
+```
+a        as       b        bd       because  best     bfd      bsd      bsgg     c        call     d        
+d        da       df       dgl      dls      drive    ds       dw       easy     ef       enjoy    eplyn    
+eplyn    f        fb       fd       fdb      fe       find     fl       fly      fs       g        god      
+god      gs       h        hd       hello    here     hi       i        im       imwv     is       j        
+j        k        kw       l        lfsd     lnw      lp       lu       lw       m        me       mi       
+mi       mp       muhaha   n        never    nice     not      nwn      o        ok       on       oyws     
+oyws     p        pbe      peble    pl       please   pw       s        sS       sa       sdf      sleep    
+sleep    smi      st       su       t        u        ubi      ueob     v        va       vs       vz       
+vz       wn       wp       wwpflow  y        you      
+```
+### Console Output:
+```
+Enter filename: input.txt
+Enter name of output: output.txt
+Wrote 94 words.
+Total execution time of Bubble Sort is 0.00111997 seconds.
+Total execution time of Selection Sort is 0.001115454 seconds.
+Total execution time of Insertion Sort is 8.67895E-4 seconds.
+Total execution time of MergeSort is 0.00145826 seconds.
+Total execution time of QuickSort is 5.90776E-4 seconds.
+All file are same.
+Output: 
+
+a        as       b        bd       because  best     bfd      bsd      bsgg     c        call     d        
+d        da       df       dgl      dls      drive    ds       dw       easy     ef       enjoy    eplyn    
+eplyn    f        fb       fd       fdb      fe       find     fl       fly      fs       g        god      
+god      gs       h        hd       hello    here     hi       i        im       imwv     is       j        
+j        k        kw       l        lfsd     lnw      lp       lu       lw       m        me       mi       
+mi       mp       muhaha   n        never    nice     not      nwn      o        ok       on       oyws     
+oyws     p        pbe      peble    pl       please   pw       s        sS       sa       sdf      sleep    
+sleep    smi      st       su       t        u        ubi      ueob     v        va       vs       vz       
+vz       wn       wp       wwpflow  y        you      
+```
